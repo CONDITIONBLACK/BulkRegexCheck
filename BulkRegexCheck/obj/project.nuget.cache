@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a8nNOQrZtUDnj8pF3vJfURnpnA3usRdKbVEHJUMniUL04CrBkywJ6ndo8vb6aNUKG4pk3DMrkzd2S59v8xx7zg==",
+  "dgSpecHash": "xLMUcEkRnjPqaQ/oxvtCTxkJyy7U/cVRgL9o6K9vE+vnqWmO0XMzt7QSgH0B4A7P+lOsrDK5ZLEVu6BgbyBr0g==",
   "success": true,
   "projectFilePath": "/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/BulkRegexCheck.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/shadowops/.nuget/packages/crayon/1.2.48/crayon.1.2.48.nupkg.sha512"
+  ],
   "logs": []
 }

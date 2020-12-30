@@ -10,3 +10,5 @@
 /Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.dll
 /Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.pdb
 /Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.genruntimeconfig.cache
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/Crayon.dll
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.csproj.CopyComplete

@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Crayon/1.2.48": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Crayon/1.2.48": {
+      "sha512": "Sq1a/HBICkK5TMU/KFznncnT0DL27qlWuFfgugFGy53wR6HtbQf5hbJFIUH03yShi6MbrZrg8TIdC0KAs1o1zw==",
+      "type": "package",
+      "path": "crayon/1.2.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crayon.1.2.48.nupkg.sha512",
+        "crayon.nuspec",
+        "lib/netstandard2.0/Crayon.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Crayon >= 1.2.48"
+    ]
   },
   "packageFolders": {
     "/Users/shadowops/.nuget/packages/": {},
@@ -45,6 +70,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "Crayon": {
+            "target": "Package",
+            "version": "[1.2.48, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

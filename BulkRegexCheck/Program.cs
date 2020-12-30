@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Drawing;
 using System.IO;
 using System.Text.RegularExpressions;
+using Crayon;
 
 namespace Regexulator
 {
@@ -8,7 +10,7 @@ namespace Regexulator
     {
         public static void Main()
         {
-            Console.WriteLine("Enter Path to File containing regular expressions to validate: ");
+            Console.WriteLine(Output.Blue($"Enter Path to File containing regular expressions to validate: "));
             string FilePath = @"" + Console.ReadLine();
 
             if (File.Exists(FilePath))
@@ -24,8 +26,8 @@ namespace Regexulator
                 }
 
                 FileToRead.Close();
-                Console.WriteLine("All Regular Expressions validated for file {0}", FilePath);
-                Console.WriteLine("Press Any Key to Exit");
+                Console.WriteLine(Output.Blue($"All Regular Expressions validated for file {0}"), FilePath);
+                Console.WriteLine(Output.Blue($"Press Any Key to Exit"));
                 Console.ReadKey();
             }
         }
@@ -58,10 +60,10 @@ namespace Regexulator
         {
             if (VerifyRegEx(line))
             {
-                Console.WriteLine("The regular expression {0} is VALID.", line);
+                Console.WriteLine(Output.BrightGreen("The regular expression {0} is VALID."), line);
             }
             else
-                Console.WriteLine("The regular expression {0} is NOT VALID.", line);
+                Console.WriteLine(Output.BrightRed("The regular expression {0} is NOT VALID."), line);
         }
     }
 }

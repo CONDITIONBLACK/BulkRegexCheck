@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Crayon": {
+              "target": "Package",
+              "version": "[1.2.48, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
