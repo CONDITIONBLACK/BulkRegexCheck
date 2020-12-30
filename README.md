@@ -148,16 +148,16 @@ Project Link: [https://github.com/CONDITIONBLACK/BulkRegexCheck](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CONDITIONBLACK/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/CONDITIONBLACK/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CONDITIONBLACK/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/CONDITIONBLACK/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/CONDITIONBLACK/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/CONDITIONBLACK/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CONDITIONBLACK/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/CONDITIONBLACK/repo/issues
-[license-shield]: https://img.shields.io/github/license/CONDITIONBLACK/repo.svg?style=for-the-badge
-[license-url]: https://github.com/CONDITIONBLACK/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/CONDITIONBLACK/BulkRegexCheck.svg?style=for-the-badge
+[contributors-url]: https://github.com/CONDITIONBLACK/BulkRegexCheck/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CONDITIONBLACK/BulkRegexCheck.svg?style=for-the-badge
+[forks-url]: https://github.com/CONDITIONBLACK/BulkRegexCheck/network/members
+[stars-shield]: https://img.shields.io/github/stars/CONDITIONBLACK/BulkRegexCheck.svg?style=for-the-badge
+[stars-url]: https://github.com/CONDITIONBLACK/BulkRegexCheck/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CONDITIONBLACK/BulkRegexCheck.svg?style=for-the-badge
+[issues-url]: https://github.com/CONDITIONBLACK/BulkRegexCheck/issues
+[license-shield]: https://img.shields.io/github/license/CONDITIONBLACK/BulkRegexCheck.svg?style=for-the-badge
+[license-url]: https://github.com/CONDITIONBLACK/BulkRegexCheck/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/CONDITIONBLACK
 [product-screenshot]: /screenshot.png
