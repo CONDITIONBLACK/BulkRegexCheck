@@ -1,0 +1,12 @@
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/BulkRegexCheck.deps.json
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/BulkRegexCheck.runtimeconfig.json
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/BulkRegexCheck.runtimeconfig.dev.json
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/BulkRegexCheck.dll
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/bin/Debug/netcoreapp3.1/BulkRegexCheck.pdb
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.csprojAssemblyReference.cache
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.AssemblyInfoInputs.cache
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.AssemblyInfo.cs
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.csproj.CoreCompileInputs.cache
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.dll
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.pdb
+/Users/shadowops/Projects/BulkRegexCheck/BulkRegexCheck/obj/Debug/netcoreapp3.1/BulkRegexCheck.genruntimeconfig.cache

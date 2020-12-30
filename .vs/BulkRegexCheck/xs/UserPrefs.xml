@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6B68D00F-5FCE-46B1-B069-009A1C5818BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkRegexCheck/Program.cs">
+    <Files>
+      <File FileName="BulkRegexCheck/Program.cs" Line="68" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkRegexCheck" expanded="True">
+            <Node name="BulkRegexCheck" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkRegexCheck FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
