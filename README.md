@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![BulkRegexCheck Screen Shot][product-screenshot]]
+![BulkRegexCheck Screen Shot][product-screenshot]
 
 
 
